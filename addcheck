@@ -1,0 +1,8 @@
+#include<iostream>
+#include<conio.h>
+void main()
+{
+int a, b, c;
+// thsi is the sum
+cout<<a+b+c;
+}
